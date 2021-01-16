@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  margin-top:15 ;
 }
 
 .App-logo {
@@ -13,6 +14,9 @@
   }
 }
 
+input{
+  color: white !important;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
