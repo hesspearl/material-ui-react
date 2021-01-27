@@ -2,8 +2,8 @@
 import React from 'react'
 import { makeStyles} from "@material-ui/core/styles"
 import Card from "./card"
-import {places} from "../../model/places"
-import useWindowsPosition from "../../hook/useWindowsPosition"
+import {places} from "./model/places"
+import useWindowsPosition from "./hook/useWindowsPosition"
 
 const useStyles=makeStyles(({breakpoints})=>({
     root:{

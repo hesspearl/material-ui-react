@@ -1,15 +1,15 @@
 import React from "react";
-import Index from "./components/blog/index"
-
-
-
+import Index from "./components/blog/index";
+import Island from "./components/island/app";
+import Tutorial from "./components/tutorial";
 
 function App() {
- return(
-   <div>
-<Index/>
-   </div>
- )
+  return (
+    <div>
+      {/* <Island/> */}
+      <Index />
+    </div>
+  );
 }
 
 export default App;
