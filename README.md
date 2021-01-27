@@ -27,14 +27,37 @@ Material-ui<br>
 <br>
 
 <h1>
-  First project
+  First project {island)
 
 ✍️ [credit to ](https://www.youtube.com/watch?v=rK0Lz8x7npA&t=803s)👈
 </h1>
 
   <p align="center" >
 
-  <img align="center" src="https://github.com/hesspearl/adventure/blob/master/images/readme/page1.jpg"/>
+  <img align="center" src="https://github.com/hesspearl/material-ui-react/blob/master/src/components/island/images/website1.jpg"/>
+  </p>
+  <p align="center" >
+
+  <img align="center" src="https://github.com/hesspearl/material-ui-react/blob/master/src/components/island/images/website2.jpg"/>
+  </p>
+ <br>
+
+ 
+ <br>
+ 
+ <h1>
+  second project {blog)
+
+✍️ [inspired by  ](https://www.youtube.com/watch?v=DJ1_CKs_LPI)👈
+</h1>
+
+  <p align="center" >
+
+  <img align="center" src="https://github.com/hesspearl/material-ui-react/blob/master/src/components/blog/images/header.jpg"/>
+  </p>
+  <p align="center" >
+
+  <img align="center" src="https://github.com/hesspearl/material-ui-react/blob/master/src/components/blog/images/body.jpg"/>
   </p>
  <br>
 
