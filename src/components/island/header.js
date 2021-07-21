@@ -69,7 +69,7 @@ const [checked, setChecked] = useState(false)
 
 useEffect(() => {
     setChecked(!checked)
-}, [])
+}, [checked])
   return (
     <div className={styles.root} id="header">
       <AppBar className={styles.appBar} position="absolute">
