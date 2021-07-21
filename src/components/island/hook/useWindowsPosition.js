@@ -19,7 +19,7 @@ import { useLayoutEffect, useState } from "react";
     return () => {
       window.removeEventListener("scroll", updatePosition);
     };
-  }, [id]);
+  }, [id, updatePsition]);
 
   return animation;
 }
