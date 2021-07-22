@@ -34,6 +34,8 @@ Material-ui<br>
   First project {island)
 
 ✍️ [credit to ](https://www.youtube.com/watch?v=rK0Lz8x7npA&t=803s)👈
+ <br>
+  📄 [DEMO ](https://www.youtube.com/watch?v=rK0Lz8x7npA&t=803s) 
 </h1>
 
   <p align="center" >
@@ -53,6 +55,8 @@ Material-ui<br>
   second project {blog)
 
 ✍️ [inspired by  ](https://www.youtube.com/watch?v=DJ1_CKs_LPI)👈
+ <br>
+  📄 [DEMO ](https://reactblog1.netlify.app/)
 </h1>
 
   <p align="center" >
