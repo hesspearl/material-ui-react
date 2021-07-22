@@ -35,7 +35,7 @@ Material-ui<br>
 
 ✍️ [credit to ](https://www.youtube.com/watch?v=rK0Lz8x7npA&t=803s)👈
  <br>
-  📄 [DEMO ](https://www.youtube.com/watch?v=rK0Lz8x7npA&t=803s) 
+  📄 [DEMO ](https://myislands.netlify.app/) 
 </h1>
 
   <p align="center" >
